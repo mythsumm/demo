@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, http-client, jackson-databind, java, java-application, junit, logback, maven, micronaut-aot, properties, reactor, reactor-http-client, readme, shade, spring, spring-boot, tomcat-server]
